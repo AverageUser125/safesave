@@ -1,3 +1,4 @@
+@tool
 extends EditorPlugin
 # CREDITS FOR IDEA AND GENERAL CODE STRUCTURE: https://github.com/meemknight/safeSave
 
